@@ -18,7 +18,7 @@ body {
     font-family: "Outfit", helvetica, sans-serif;
 }
 
-.content {
+main {
     background-color: hsl(0, 0%, 100%);
     max-width: 40vh;
     margin-top: 1rem;
@@ -26,19 +26,19 @@ body {
     padding-bottom: 1rem;
 }
 
-.image {
+img {
     width: 90%;
     border-radius: .9375rem;
     margin-top: .625rem ;
 }
 
-.header {
+h1 {
     color: hsl(218, 44%, 22%);
     padding-left: 1rem;
     padding-right: 1rem;
 }
 
-.para1 {
+p {
     color: hsl(220, 15%, 55%);
     padding: 1rem;
 }
